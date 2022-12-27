@@ -1,4 +1,4 @@
-### 안녕하세요~ 김의엽입니다. 👋
+### 안녕하세요~ 황지수입니다. 👋
 
 <!--
 **kimeuiyeob/kimeuiyeob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
